@@ -4,7 +4,7 @@ $main-color: #ffbc00;
 $light-color: #f4f4f4;
 $medium-color: #ccc;
 $dark-color: #333;
-$bg-image: url(/dist/img/showcase.jpg);
+$bg-image: url("../img/showcase.jpg");
 // Because the url will be read from the css file, you need to set the path from the perspective of the main.css file. In this case, leaving the file, leaving the css folder, entering the img folder & obtaining the showcase.jpg
 
 // Set Text Color Function
